@@ -1,0 +1,15 @@
+# Ignore Visual Studio specific folders
+.vs/
+bin/
+obj/
+
+# Ignore user-specific Visual Studio files
+*.user
+*.suo
+*.vscode/
+
+# Ignore build artifacts
+*.exe
+*.dll
+*.pdb
+*.log
