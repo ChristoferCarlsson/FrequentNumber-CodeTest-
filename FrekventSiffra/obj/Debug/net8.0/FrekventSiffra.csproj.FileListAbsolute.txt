@@ -1,0 +1,15 @@
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\bin\Debug\net8.0\FrekventSiffra.exe
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\bin\Debug\net8.0\FrekventSiffra.deps.json
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\bin\Debug\net8.0\FrekventSiffra.runtimeconfig.json
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\bin\Debug\net8.0\FrekventSiffra.dll
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\bin\Debug\net8.0\FrekventSiffra.pdb
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\FrekventSiffra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\FrekventSiffra.AssemblyInfoInputs.cache
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\FrekventSiffra.AssemblyInfo.cs
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\FrekventSiffra.csproj.CoreCompileInputs.cache
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\FrekventSiffra.sourcelink.json
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\FrekventSiffra.dll
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\refint\FrekventSiffra.dll
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\FrekventSiffra.pdb
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\FrekventSiffra.genruntimeconfig.cache
+C:\Users\theca\Documents\Projects\DndApp\FrequentNumber-CodeTest-\FrekventSiffra\obj\Debug\net8.0\ref\FrekventSiffra.dll
